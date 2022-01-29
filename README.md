@@ -6,7 +6,7 @@
   <a href="https://discord.gg/hmcmv3P7YW">
     <img
       alt="Support"
-      src="https://img.shields.io/badge/PPRP Disco-5865F2?logo=discord&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/PPRP-5865F2?logo=discord&logoColor=white&style=for-the-badge"
     />
   </a>
   <a href="https://ko-fi.com/adrinex">
@@ -15,4 +15,7 @@
       src="https://img.shields.io/badge/apustus-2BB3EE?logo=kofi&logoColor=white&style=for-the-badge"
     />
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=AdrineX&style=flat-square&color=blue" alt=""/>
+  
 </p>
